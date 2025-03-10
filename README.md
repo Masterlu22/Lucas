@@ -1,7 +1,8 @@
-# Lucas
+# Teste conhecendo o gitHub
 teste aula UniFil
 ##  Silva
-* pão
-* ARROZ
-* CARNE
+<ol>
+  <li>primeiro número da lista
+  </li>
+</ol>
 
